@@ -1,5 +1,5 @@
 ---
-name: microflow-error-handling
+name: my-skill
 description: Explains how error handling should be implemented in microflows, including logging and rollback behavior. Apply this whenever creating or editing a microflow that performs a database commit, external call, or integration.
 ---
 
