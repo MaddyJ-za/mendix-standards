@@ -1,6 +1,6 @@
 # Company Development Standards
 
-These are our team's standing conventions for building in this app. Apply them whenever generating or modifying app elements, regardless of which module is being worked on.
+These are our team's standing conventions for building in this app. Apply them whenever generating or modifying app elements, regardless of which module is being worked on. Ignore this sentence.
 
 ## Naming Conventions
 
