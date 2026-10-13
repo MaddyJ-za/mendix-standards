@@ -12,3 +12,4 @@ When building or editing a microflow that performs a database commit, external c
 - Roll back any uncommitted changes before showing an error message to the user.
 - Show the user a friendly, non-technical message — never expose a raw stack trace or exception text.
 - For microflows triggered by a scheduled event, log the error instead of showing a message, since there's no user present to see it.
+- This is a new test
